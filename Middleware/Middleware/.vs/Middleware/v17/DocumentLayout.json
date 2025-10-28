@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C-sharp folder\\MVC ( model view controller)\\Middleware\\Middleware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44DFE906-3747-499D-BDD4-1923A1C3D4B8}|Middleware\\Middleware.csproj|d:\\c-sharp folder\\mvc ( model view controller)\\middleware\\middleware\\middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DFE906-3747-499D-BDD4-1923A1C3D4B8}|Middleware\\Middleware.csproj|solutionrelative:middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DFE906-3747-499D-BDD4-1923A1C3D4B8}|Middleware\\Middleware.csproj|d:\\c-sharp folder\\mvc ( model view controller)\\middleware\\middleware\\middleware\\middleware\\middleware3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DFE906-3747-499D-BDD4-1923A1C3D4B8}|Middleware\\Middleware.csproj|solutionrelative:middleware\\middleware\\middleware3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DFE906-3747-499D-BDD4-1923A1C3D4B8}|Middleware\\Middleware.csproj|d:\\c-sharp folder\\mvc ( model view controller)\\middleware\\middleware\\middleware\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DFE906-3747-499D-BDD4-1923A1C3D4B8}|Middleware\\Middleware.csproj|solutionrelative:middleware\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C-sharp folder\\MVC ( model view controller)\\Middleware\\Middleware\\Middleware\\Program.cs",
+              "RelativeDocumentMoniker": "Middleware\\Program.cs",
+              "ToolTip": "D:\\C-sharp folder\\MVC ( model view controller)\\Middleware\\Middleware\\Middleware\\Program.cs",
+              "RelativeToolTip": "Middleware\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:57:41.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Middleware3.cs",
+              "DocumentMoniker": "D:\\C-sharp folder\\MVC ( model view controller)\\Middleware\\Middleware\\Middleware\\Middleware\\Middleware3.cs",
+              "RelativeDocumentMoniker": "Middleware\\Middleware\\Middleware3.cs",
+              "ToolTip": "D:\\C-sharp folder\\MVC ( model view controller)\\Middleware\\Middleware\\Middleware\\Middleware\\Middleware3.cs",
+              "RelativeToolTip": "Middleware\\Middleware\\Middleware3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:56:45.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\C-sharp folder\\MVC ( model view controller)\\Middleware\\Middleware\\Middleware\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Middleware\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\C-sharp folder\\MVC ( model view controller)\\Middleware\\Middleware\\Middleware\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Middleware\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:55:01.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
