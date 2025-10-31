@@ -27,6 +27,8 @@ namespace WebApplication1.Controllers
             // List
             List<string> courses = new List<string> { "HTML", "CSS", "JavaScript", "SQL" };
             ViewData["data5"] = courses;
+            // keep krne se temp data aik aur page pr  available hoga 
+            TempData.Keep();
 
             return View();
         }
@@ -42,6 +44,12 @@ namespace WebApplication1.Controllers
             ViewBag.Tools = tools;
             ViewData["data4"] = 5;
             ViewBag.Myname = "Ammar";
+            //temp data sirf 1 dfa hota hy access chahe wo dusry page pr  ho
+            //inhy my index pr access krun ga
+            // type casting bhi krna parta hay yee compile time p error deta hhay
+            TempData["dat3"] = "tmp";
+            TempData["data5"] = new List<string> { "HTML", "CSS", "JavaScript", "SQL" };
+            TempData.Keep();
 
 
 

@@ -29,4 +29,12 @@
 <h4>@ViewBag.data4</h4>
 //if data define using viewbag you can also access through viewdata vice virsa
 <h1>@ViewData["Myname"]</h1>
+<h1>Temp data</h1>
+@TempData["dat3"]
+<ul>
+    @foreach (var tools in (List<String>)TempData["data5"])
+    {
+        <li>@tools</li>
+    }
+</ul>
 
